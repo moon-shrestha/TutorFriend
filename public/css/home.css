@@ -1,0 +1,16 @@
+body{
+    background-image: url("images/tutor.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size:cover;
+    
+    
+    
+} 
+.jumbotron{
+    width:800px; 
+    margin:0 auto;
+    opacity: 50%;
+
+    margin-left: auto;
+    margin-right: auto;
+}
